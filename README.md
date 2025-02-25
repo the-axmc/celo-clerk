@@ -1,2 +1,2 @@
-# celo-privadoid
+# celo-clerk
 Sign in test with celo memberships
